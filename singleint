@@ -1,0 +1,4 @@
+class  singleint
+{
+	protected String name;
+	protected String brand;
